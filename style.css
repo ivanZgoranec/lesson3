@@ -1,5 +1,20 @@
 table{
-    height: 250px;
-    width: 500px;
-    
+    height:300px ;
+    width: 700px;
+    margin: 100px auto;
+    border: 2px solid black;
+    border-radius: 25px;
+    background-color: cornflowerblue;
+}
+td{
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 50px;
+    background-color: blue;
+    color: white;
+}
+h1{
+    text-align: center;
+    margin: 100px auto;
+    font-size: 50px;
 }
